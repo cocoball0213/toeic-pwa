@@ -1,0 +1,14 @@
+{
+  "name": "TOEIC 단어 암기장",
+  "short_name": "TOEIC 단어",
+  "description": "TOEIC 핵심 단어 암기 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#1a1814",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
